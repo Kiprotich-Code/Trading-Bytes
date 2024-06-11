@@ -2,7 +2,7 @@
 
 - A real-time application that displays real-time trading news and trader profiles. Derived from a similar app that displayed a list of 3000 Developers and their github profiles. 
 
-- ==We keep it simple== no create views for adding news or trader profiles - just scrap everything from the internet and display it on the site.
+- We keep it simple: no create views for adding news or trader profiles - just scrap everything from the internet and display it on the site.
 
 # Concepts
 
